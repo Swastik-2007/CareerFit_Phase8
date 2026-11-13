@@ -1,0 +1,18 @@
+Data Science Intern
+
+ABOUT THE ROLE
+We are looking for a data science intern to support data analysis and machine learning projects.
+
+REQUIREMENTS
+- Python and SQL are mandatory.
+- B.Tech or Bachelor of Technology in Computer Science is required.
+- At least 1 year of relevant project or internship experience.
+
+PREFERRED SKILLS
+- Pandas, scikit-learn, Power BI, and Docker.
+
+RESPONSIBILITIES
+- Clean and analyze data.
+- Build explainable machine learning baselines.
+- Present results clearly to technical and non-technical stakeholders.
+

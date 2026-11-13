@@ -1,0 +1,17 @@
+ASHA VERMA
+asha.verma@example.com | +91 97654 32109
+https://www.linkedin.com/in/asha-verma
+https://github.com/asha-verma
+
+SUMMARY
+Computer science student seeking a data internship.
+
+SKILLS
+Python, Pandas, Power BI, Docker, Git
+
+EDUCATION
+B.Tech in Computer Science and Engineering
+
+PROJECTS
+- Created a Pandas dashboard for academic data analysis.
+

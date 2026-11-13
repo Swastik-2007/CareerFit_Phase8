@@ -1,0 +1,22 @@
+SWASTIK DAS
+swastik.das@example.com | +91 98765 43210 | Kolkata, India
+
+SUMMARY
+Machine learning student with 1 year of internship and project experience.
+
+TECHNICAL SKILLS
+Python, SQL, Pandas, NumPy, scikit-learn, Machine Learning, Git, GitHub, Power BI
+
+EDUCATION
+B.Tech in Computer Science and Engineering (Data Science with Machine Learning)
+Lovely Professional University | 2025 - 2029
+
+EXPERIENCE
+Data Science Intern | January 2025 - January 2026
+- Cleaned datasets with Pandas and NumPy.
+- Built classification baselines using sklearn.
+
+PROJECTS
+CareerFit Resume Intelligence
+- Designed an explainable resume parsing and candidate-ranking workflow.
+

@@ -1,0 +1,37 @@
+record_id,resume_text,target_role
+ds001,"B.Tech graduate using Python SQL pandas and scikit-learn for data cleaning predictive modelling and dashboard analysis. Built a customer churn classifier and evaluated precision recall and F1.",Data Scientist
+ds002,"Analyst experienced with Python NumPy statistics regression and Tableau. Prepared datasets wrote SQL queries engineered features and explained forecasting results to business teams.",Data Scientist
+ds003,"Machine learning intern who trained classification models with scikit-learn cross validation and feature selection. Comfortable with pandas visualization probability and experimental reporting.",Data Scientist
+ds004,"Data practitioner skilled in Python R SQL exploratory analysis hypothesis testing and Power BI. Created sales forecasts and automated reusable data preparation pipelines.",Data Scientist
+ds005,"Computer science graduate focused on machine learning natural language processing and model evaluation. Used TF-IDF logistic regression notebooks and Git for a text classification project.",Data Scientist
+ds006,"Junior data scientist with Python pandas NumPy Matplotlib and SQL. Compared random forest and support vector models while tracking accuracy confusion matrices and class imbalance.",Data Scientist
+ds007,"Built recommendation and clustering prototypes from retail data. Skills include Python statistics data visualization feature engineering scikit-learn and clear communication of findings.",Data Scientist
+ds008,"Performed data cleaning missing-value treatment correlation analysis and predictive modelling. Used SQL Python seaborn and Jupyter to study customer behaviour and present insights.",Data Scientist
+ds009,"Applied time-series forecasting regression and validation to demand data. Strong foundation in probability linear algebra Python pandas and reproducible experiment documentation.",Data Scientist
+ds010,"Created an NLP resume classifier with text preprocessing TF-IDF cosine similarity and supervised learning. Evaluated models using macro F1 precision recall and held-out test data.",Data Scientist
+ds011,"Data analytics trainee with Excel SQL Python and Power BI who transformed raw operational records into reports. Learning machine learning deployment and model monitoring.",Data Scientist
+ds012,"Research assistant analysing sensor measurements with Python statistics and classification algorithms. Designed train validation test splits and prevented duplicate leakage between partitions.",Data Scientist
+fs001,"Full stack developer building responsive React interfaces and Node.js REST APIs. Used JavaScript TypeScript Express PostgreSQL Git and Docker for a deployed web application.",Full Stack Developer
+fs002,"Software engineer experienced with HTML CSS JavaScript React and backend services in Python Flask. Designed database schemas authentication endpoints and unit tests.",Full Stack Developer
+fs003,"Developed an e-commerce platform using React Redux Node Express and MongoDB. Implemented payment workflows role-based access responsive pages and API integration.",Full Stack Developer
+fs004,"Web developer skilled in Java Spring Boot REST services MySQL and Angular. Wrote reusable components tested endpoints and deployed containers through a CI pipeline.",Full Stack Developer
+fs005,"Created mobile-friendly websites with HTML CSS Bootstrap and JavaScript while building Django APIs and PostgreSQL persistence. Used GitHub issues and automated tests.",Full Stack Developer
+fs006,"Built a real-time collaboration app using React WebSocket Node.js and Redis. Focused on frontend state management backend validation performance and secure sessions.",Full Stack Developer
+fs007,"Full stack intern working with TypeScript Next.js REST APIs Prisma and PostgreSQL. Added login flows form validation database migrations and cloud deployment.",Full Stack Developer
+fs008,"Implemented dashboards in Vue and backend microservices with FastAPI. Integrated SQL databases wrote API documentation and tested client-server error handling.",Full Stack Developer
+fs009,"Application developer using C# ASP.NET React and SQL Server. Delivered accessible interfaces service-layer logic automated tests and version-controlled releases.",Full Stack Developer
+fs010,"Designed a campus portal with JavaScript React Express and MongoDB. Built CRUD operations JWT authentication search pagination and responsive user interfaces.",Full Stack Developer
+fs011,"Python web developer with Django templates REST framework PostgreSQL HTML and CSS. Improved query performance added permissions and deployed the application with Docker.",Full Stack Developer
+fs012,"Frontend and backend contributor using Angular TypeScript Java Spring and MySQL. Converted requirements into components APIs integration tests and maintainable documentation.",Full Stack Developer
+cy001,"Cybersecurity analyst monitoring alerts investigating suspicious traffic and documenting incidents. Used Linux Wireshark SIEM queries network protocols and vulnerability assessment tools.",Cybersecurity Analyst
+cy002,"Security operations trainee experienced with log analysis phishing investigation and incident response. Worked with Splunk firewall events endpoint alerts and threat intelligence.",Cybersecurity Analyst
+cy003,"Performed web application security testing using OWASP guidance Burp Suite and secure coding reviews. Reported vulnerabilities risk ratings remediation steps and retest results.",Cybersecurity Analyst
+cy004,"Network security graduate skilled in TCP IP Linux Nmap Wireshark and firewall configuration. Built a lab for intrusion detection packet analysis and access control.",Cybersecurity Analyst
+cy005,"Analysed authentication logs and malware indicators in a SOC project. Used Python scripts SIEM dashboards MITRE ATT&CK mapping and incident escalation procedures.",Cybersecurity Analyst
+cy006,"Security intern conducting vulnerability scans patch verification and asset risk tracking. Familiar with Nessus Linux Windows security controls and compliance documentation.",Cybersecurity Analyst
+cy007,"Studied digital forensics memory analysis and evidence handling. Investigated compromised hosts preserved logs calculated file hashes and prepared incident timelines.",Cybersecurity Analyst
+cy008,"Implemented secure configuration checks for cloud resources and containers. Reviewed IAM permissions encryption audit logs secrets management and least-privilege policies.",Cybersecurity Analyst
+cy009,"Threat analyst researching malicious domains indicators of compromise and attacker techniques. Created detection rules enriched alerts and communicated priorities to response teams.",Cybersecurity Analyst
+cy010,"Penetration testing learner using Kali Linux Nmap Metasploit and Burp Suite in authorised labs. Documented findings and recommended practical remediation controls.",Cybersecurity Analyst
+cy011,"Cyber defence student with Python networking cryptography and operating-system fundamentals. Built scripts to parse security logs detect repeated failures and generate alerts.",Cybersecurity Analyst
+cy012,"Governance and security assistant supporting access reviews risk assessments policy checks and audit evidence. Understands ISO 27001 controls incident management and data protection.",Cybersecurity Analyst

@@ -1,0 +1,9 @@
+{
+  "name": "CareerFit synthetic role-classification demo",
+  "source_type": "synthetic_demo",
+  "created_for": "Pipeline verification and classroom demonstration",
+  "licence": "Project-generated sample data",
+  "limitations": "The records are synthetic and intentionally contain role-related vocabulary. Metrics from this dataset are not evidence of real-world hiring performance.",
+  "permitted_claim": "The Phase 3 training and evaluation pipeline runs reproducibly.",
+  "prohibited_claim": "Do not report demo accuracy as CareerFit's real-world accuracy."
+}

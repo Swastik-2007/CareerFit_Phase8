@@ -1,0 +1,74 @@
+{
+  "version": "1.0.0",
+  "description": "Starter taxonomy for CareerFit Phase 1. Canonical names are stable feature identifiers.",
+  "categories": {
+    "programming_languages": [
+      {"canonical": "python", "aliases": ["Python 3"]},
+      {"canonical": "java", "aliases": ["Java SE", "Java EE"]},
+      {"canonical": "c_programming", "aliases": ["C programming", "C language"]},
+      {"canonical": "cpp", "aliases": ["C++", "CPP"]},
+      {"canonical": "csharp", "aliases": ["C#", "C sharp"]},
+      {"canonical": "javascript", "aliases": ["JavaScript", "JS", "ECMAScript"]},
+      {"canonical": "typescript", "aliases": ["TypeScript"]},
+      {"canonical": "r_programming", "aliases": ["R programming", "R language"]},
+      {"canonical": "sql", "aliases": ["Structured Query Language"]},
+      {"canonical": "html", "aliases": ["HTML5"]},
+      {"canonical": "css", "aliases": ["CSS3"]}
+    ],
+    "data_and_machine_learning": [
+      {"canonical": "machine_learning", "aliases": ["Machine Learning", "ML"]},
+      {"canonical": "deep_learning", "aliases": ["Deep Learning", "DL"]},
+      {"canonical": "data_science", "aliases": ["Data Science"]},
+      {"canonical": "data_analysis", "aliases": ["Data Analysis", "Data Analytics"]},
+      {"canonical": "natural_language_processing", "aliases": ["Natural Language Processing", "NLP"]},
+      {"canonical": "computer_vision", "aliases": ["Computer Vision", "CV"]},
+      {"canonical": "statistics", "aliases": ["Statistical Analysis"]},
+      {"canonical": "numpy", "aliases": ["NumPy"]},
+      {"canonical": "pandas", "aliases": ["Pandas"]},
+      {"canonical": "scikit_learn", "aliases": ["scikit-learn", "scikit learn", "sklearn"]},
+      {"canonical": "tensorflow", "aliases": ["TensorFlow"]},
+      {"canonical": "pytorch", "aliases": ["PyTorch"]},
+      {"canonical": "keras", "aliases": ["Keras"]},
+      {"canonical": "spacy", "aliases": ["spaCy"]},
+      {"canonical": "matplotlib", "aliases": ["Matplotlib"]},
+      {"canonical": "seaborn", "aliases": ["Seaborn"]},
+      {"canonical": "power_bi", "aliases": ["Power BI", "PowerBI"]},
+      {"canonical": "tableau", "aliases": ["Tableau"]},
+      {"canonical": "excel", "aliases": ["Microsoft Excel", "MS Excel"]}
+    ],
+    "web_and_api": [
+      {"canonical": "flask", "aliases": ["Flask"]},
+      {"canonical": "django", "aliases": ["Django"]},
+      {"canonical": "fastapi", "aliases": ["FastAPI"]},
+      {"canonical": "react", "aliases": ["React.js", "ReactJS"]},
+      {"canonical": "nodejs", "aliases": ["Node.js", "NodeJS"]},
+      {"canonical": "spring_boot", "aliases": ["Spring Boot"]},
+      {"canonical": "rest_api", "aliases": ["REST API", "RESTful API", "REST APIs"]}
+    ],
+    "databases": [
+      {"canonical": "mysql", "aliases": ["MySQL"]},
+      {"canonical": "postgresql", "aliases": ["PostgreSQL", "Postgres"]},
+      {"canonical": "mongodb", "aliases": ["MongoDB"]},
+      {"canonical": "sqlite", "aliases": ["SQLite"]},
+      {"canonical": "redis", "aliases": ["Redis"]}
+    ],
+    "cloud_and_devops": [
+      {"canonical": "aws", "aliases": ["Amazon Web Services"]},
+      {"canonical": "azure", "aliases": ["Microsoft Azure"]},
+      {"canonical": "gcp", "aliases": ["Google Cloud", "Google Cloud Platform"]},
+      {"canonical": "docker", "aliases": ["Docker"]},
+      {"canonical": "kubernetes", "aliases": ["Kubernetes", "K8s"]},
+      {"canonical": "git", "aliases": ["Git"]},
+      {"canonical": "github", "aliases": ["GitHub"]},
+      {"canonical": "linux", "aliases": ["GNU/Linux"]},
+      {"canonical": "ci_cd", "aliases": ["CI/CD", "Continuous Integration"]}
+    ],
+    "desktop_and_tools": [
+      {"canonical": "tkinter", "aliases": ["Tkinter", "Tk"]},
+      {"canonical": "pygame", "aliases": ["Pygame"]},
+      {"canonical": "jupyter", "aliases": ["Jupyter Notebook", "JupyterLab"]},
+      {"canonical": "visual_studio_code", "aliases": ["Visual Studio Code", "VS Code"]}
+    ]
+  }
+}
+
